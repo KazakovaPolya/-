@@ -1,0 +1,38 @@
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\bin\Debug\курсовая_ООП.exe.config
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\bin\Debug\курсовая_ООП.exe
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\bin\Debug\курсовая_ООП.pdb
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.csprojAssemblyReference.cache
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.Properties.Resources.resources
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.csproj.GenerateResource.cache
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.csproj.CoreCompileInputs.cache
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.exe
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.pdb
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.menu.resources
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\bin\Debug\preparations.mdf
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\bin\Debug\preparations_log.ldf
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.basket_Form.resources
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.analitic_Form.resources
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.Form1.resources
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.form_menu.resources
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.form_client.resources
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.help_Form2.resources
+C:\Users\Polina\Desktop\курсач ооп\курсовая_ООП\курсовая_ООП\obj\Debug\курсовая_ООП.Form2.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\bin\Debug\preparations.mdf
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\bin\Debug\preparations_log.ldf
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\bin\Debug\курсовая_ООП.exe.config
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\bin\Debug\курсовая_ООП.exe
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\bin\Debug\курсовая_ООП.pdb
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.csprojAssemblyReference.cache
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.analitic_Form.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.basket_Form.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.Form1.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.Form2.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.form_client.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.form_menu.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.help_Form2.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.menu.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.Properties.Resources.resources
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.csproj.GenerateResource.cache
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.csproj.CoreCompileInputs.cache
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.exe
+C:\Users\Polina\Desktop\курсач_ооп\application_for_pharmacy\курсовая_ООП\obj\Debug\курсовая_ООП.pdb
